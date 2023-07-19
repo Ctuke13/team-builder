@@ -1,0 +1,130 @@
+{
+  "$ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/seasons/2023/athletes/4240532?lang=en&region=us",
+  "id": "4240532",
+  "uid": "s:20~l:28~a:4240532",
+  "guid": "dc2d7c81-1f79-7c09-2471-8179189fc886",
+  "type": "football",
+  "alternateIds": { "sdr": "4240532" },
+  "firstName": "Tony",
+  "lastName": "Adams",
+  "fullName": "Tony Adams",
+  "displayName": "Tony Adams",
+  "shortName": "T. Adams",
+  "weight": 205.0,
+  "displayWeight": "205 lbs",
+  "height": 72.0,
+  "displayHeight": "6' 0\"",
+  "age": 24,
+  "dateOfBirth": "1999-01-24T08:00Z",
+  "links": [
+    {
+      "language": "en-US",
+      "rel": ["playercard", "desktop", "athlete"],
+      "href": "http://www.espn.com/nfl/player/_/id/4240532/tony-adams",
+      "text": "Player Card",
+      "shortText": "Player Card",
+      "isExternal": false,
+      "isPremium": false
+    },
+    {
+      "language": "en-US",
+      "rel": ["stats", "desktop", "athlete"],
+      "href": "http://www.espn.com/nfl/player/stats/_/id/4240532/tony-adams",
+      "text": "Stats",
+      "shortText": "Stats",
+      "isExternal": false,
+      "isPremium": false
+    },
+    {
+      "language": "en-US",
+      "rel": ["splits", "desktop", "athlete"],
+      "href": "http://www.espn.com/nfl/player/splits/_/id/4240532/tony-adams",
+      "text": "Splits",
+      "shortText": "Splits",
+      "isExternal": false,
+      "isPremium": false
+    },
+    {
+      "language": "en-US",
+      "rel": ["gamelog", "desktop", "athlete"],
+      "href": "http://www.espn.com/nfl/player/gamelog/_/id/4240532/tony-adams",
+      "text": "Game Log",
+      "shortText": "Game Log",
+      "isExternal": false,
+      "isPremium": false
+    },
+    {
+      "language": "en-US",
+      "rel": ["news", "desktop", "athlete"],
+      "href": "http://www.espn.com/nfl/player/news/_/id/4240532/tony-adams",
+      "text": "News",
+      "shortText": "News",
+      "isExternal": false,
+      "isPremium": false
+    },
+    {
+      "language": "en-US",
+      "rel": ["bio", "desktop", "athlete"],
+      "href": "http://www.espn.com/nfl/player/bio/_/id/4240532/tony-adams",
+      "text": "Bio",
+      "shortText": "Bio",
+      "isExternal": false,
+      "isPremium": false
+    },
+    {
+      "language": "en-US",
+      "rel": ["overview", "desktop", "athlete"],
+      "href": "http://www.espn.com/nfl/player/_/id/4240532/tony-adams",
+      "text": "Overview",
+      "shortText": "Overview",
+      "isExternal": false,
+      "isPremium": false
+    }
+  ],
+  "birthPlace": { "city": "Belleville", "state": "IL", "country": "USA" },
+  "college": {
+    "$ref": "http://sports.core.api.espn.com/v2/colleges/356?lang=en&region=us"
+  },
+  "slug": "tony-adams",
+  "headshot": {
+    "href": "https://a.espncdn.com/i/headshots/nfl/players/full/4240532.png",
+    "alt": "Tony Adams"
+  },
+  "jersey": "22",
+  "position": {
+    "$ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/positions/36?lang=en&region=us",
+    "id": "36",
+    "name": "Safety",
+    "displayName": "Safety",
+    "abbreviation": "S",
+    "leaf": false,
+    "parent": {
+      "$ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/positions/35?lang=en&region=us"
+    }
+  },
+  "injuries": [],
+  "linked": true,
+  "team": {
+    "$ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/seasons/2023/teams/20?lang=en&region=us"
+  },
+  "notes": {
+    "$ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/seasons/2023/athletes/4240532/notes?lang=en&region=us"
+  },
+  "contracts": {
+    "$ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/athletes/4240532/contracts?lang=en&region=us"
+  },
+  "experience": { "years": 0 },
+  "collegeAthlete": {
+    "$ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/athletes/4240532?lang=en&region=us"
+  },
+  "active": true,
+  "eventLog": {
+    "$ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/seasons/2023/athletes/4240532/eventlog?lang=en&region=us"
+  },
+  "status": {
+    "id": "1",
+    "name": "Active",
+    "type": "active",
+    "abbreviation": "Active"
+  }
+}
